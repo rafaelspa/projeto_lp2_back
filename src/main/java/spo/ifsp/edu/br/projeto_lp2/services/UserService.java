@@ -2,8 +2,8 @@ package spo.ifsp.edu.br.projeto_lp2.services;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-import spo.ifsp.edu.br.projeto_lp2.dataBaseLoading.CsvUserHttpClient;
-import spo.ifsp.edu.br.projeto_lp2.dataBaseLoading.JsonUserHttpClient;
+import spo.ifsp.edu.br.projeto_lp2.services.dataBaseLoading.CsvUserHttpClient;
+import spo.ifsp.edu.br.projeto_lp2.services.dataBaseLoading.JsonUserHttpClient;
 import spo.ifsp.edu.br.projeto_lp2.models.Region;
 import spo.ifsp.edu.br.projeto_lp2.models.User;
 import spo.ifsp.edu.br.projeto_lp2.repositories.UserRepository;
