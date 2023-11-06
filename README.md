@@ -1,10 +1,15 @@
 # Trabalho LP2 - 2º semestre de 2023
 
-front
+# front
+
 deploy: [https://main--snazzy-lollipop-315cd9.netlify.app/](https://main--snazzy-lollipop-315cd9.netlify.app/)
+
 repo: [https://github.com/rafaelspa/projeto_lp2_front](https://github.com/rafaelspa/projeto_lp2_front)
-back
+
+# back
+
 deploy: [https://projeto-lp2-back-9ac1bbc9644e.herokuapp.com/](https://projeto-lp2-back-9ac1bbc9644e.herokuapp.com/)
+
 repo: [https://github.com/rafaelspa/projeto_lp2_back](https://github.com/rafaelspa/projeto_lp2_back)
 
 
