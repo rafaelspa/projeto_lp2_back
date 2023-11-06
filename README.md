@@ -1,12 +1,20 @@
 # Trabalho LP2 - 2º semestre de 2023
 
-# front
+## Integrantes:
+
+- Guilherme Turato 	SP3097846
+- Gustavo           SP3097714
+- Pedro Enzo		SP3096211
+- Rafael Caixeta	SP3094537
+- Rafael Simões		SP3094812
+
+## front
 
 deploy: [https://main--snazzy-lollipop-315cd9.netlify.app/](https://main--snazzy-lollipop-315cd9.netlify.app/)
 
 repo: [https://github.com/rafaelspa/projeto_lp2_front](https://github.com/rafaelspa/projeto_lp2_front)
 
-# back
+## back
 
 deploy: [https://projeto-lp2-back-9ac1bbc9644e.herokuapp.com/](https://projeto-lp2-back-9ac1bbc9644e.herokuapp.com/)
 
