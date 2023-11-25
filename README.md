@@ -3,7 +3,7 @@
 ## Integrantes:
 
 - Guilherme Turato 	SP3097846
-- Gustavo           SP3097714
+- Gustavo Daiki     SP3097714
 - Pedro Enzo		SP3096211
 - Rafael Caixeta	SP3094537
 - Rafael Simões		SP3094812
