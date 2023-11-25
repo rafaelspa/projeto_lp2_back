@@ -8,16 +8,17 @@
         <version>3.1.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-<!--    <packaging>war</packaging>-->
     <groupId>spo.ifsp.edu.br</groupId>
     <artifactId>Projeto_lp2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>juntossomosmaischallenge</name>
     <description>Projeto final da disciplina LP2A4 - Code Challenge Juntos Somos Mais</description>
+
     <properties>
         <java.version>19</java.version>
         <org.springframework.boot.version>3.1.5</org.springframework.boot.version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -49,7 +50,6 @@
             <version>20220924</version>
         </dependency>
 
-
     </dependencies>
 
     <build>
@@ -59,32 +59,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${project.parent.version}</version>
             </plugin>
-
-<!--            <plugin>
-                <groupId>com.heroku.sdk</groupId>
-                <artifactId>heroku-maven-plugin</artifactId>
-                <version>3.0.7</version>
-                <configuration>
-                    <appName>projeto-lp2</appName>
-                </configuration>
-            </plugin>-->
-
-<!--            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.4.0</version>
-            </plugin>-->
-
-<!--            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.11.0</version>
-                <configuration>
-                    <source>19</source>
-                    <target>19</target>
-                    <verbose>true</verbose>
-                </configuration>
-            </plugin>-->
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
